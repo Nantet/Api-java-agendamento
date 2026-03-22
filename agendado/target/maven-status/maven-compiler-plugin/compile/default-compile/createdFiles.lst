@@ -1,0 +1,5 @@
+com\java\agendado\service\AgendamentoService.class
+com\java\agendado\controller\AgendamentoController.class
+com\java\agendado\infrastructure\reposity\AgendamentoRepository.class
+com\java\agendado\AgendadoApplication.class
+com\java\agendado\infrastructure\entity\Agendamento.class
